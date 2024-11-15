@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\INTEGRAL COMPUTER\Desktop\CODSOFT TASK LIST\.metadata\.plugins\org.eclipse.jdt.core
+2284308164.index
+1865797976.index
+1288848795.index

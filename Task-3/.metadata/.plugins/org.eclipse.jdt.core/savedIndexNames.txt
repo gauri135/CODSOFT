@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\INTEGRAL COMPUTER\Desktop\currencyConvertor\.metadata\.plugins\org.eclipse.jdt.core
+2272607690.index
+1288848795.index
+1136350857.index
+1865797976.index

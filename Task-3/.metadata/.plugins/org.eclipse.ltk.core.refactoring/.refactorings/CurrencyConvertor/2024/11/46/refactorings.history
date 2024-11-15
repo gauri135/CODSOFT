@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;org.sample.CurrencyConvertor.CurrencyConvertor.java&apos; to &apos;CurrencyConverter.java&apos;&#x0D;&#x0A;- Original project: &apos;CurrencyConvertor&apos;&#x0D;&#x0A;- Original element: &apos;org.sample.CurrencyConvertor.CurrencyConvertor.java&apos;&#x0D;&#x0A;- Renamed element: &apos;org.sample.CurrencyConvertor.CurrencyConverter.java&apos;" description="Rename compilation unit &apos;CurrencyConvertor.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.sample.CurrencyConvertor{CurrencyConvertor.java" name="CurrencyConverter.java" references="false" stamp="1731498290309" version="1.0"/>
+</session>
